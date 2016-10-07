@@ -1,1 +1,1 @@
-web: python time.py
+web: gunicorn app:app
